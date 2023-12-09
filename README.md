@@ -1,5 +1,8 @@
 ![Banner](https://raw.githubusercontent.com/salam46khan/salam46khan/main/Abdus%20Salam.png)
 
+## 🚀 Hey there! I'm Abdus Salam,
+I am a front-end developer on a mission to create visually stunning and user-friendly websites. With a skill set covering HTML, CSS, JavaScript, Tailwind CSS, React, and MongoDB, I bring ideas to life through clean and efficient code. Let's code the future together! 💡💻
+
 ## 👀 Current overview
 - 🔭 I’m currently working with front end development
 - 🌱 I’m currently learning more about front end development
