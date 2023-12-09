@@ -1,16 +1,17 @@
-### Hi there 👋
+![Banner](https://raw.githubusercontent.com/salam46khan/salam46khan/main/Abdus%20Salam.png)
+
+## 👀 Current overview
+- 🔭 I’m currently working with front end development
+- 🌱 I’m currently learning more about front end development
+- 🤔 I’m trying to suggest people about learning front end development
+
+  
+
+## 📈 Current Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salam46khan&theme=blueberry)](https://git.io/streak-stats)
 
 
-**salam46khan/salam46khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💻 Technologies that I know
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,express,nextjs,mongodb,firebase)](https://skillicons.dev)
 
