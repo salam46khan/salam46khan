@@ -20,6 +20,21 @@ I am a front-end developer on a mission to create visually stunning and user-fri
 
 ## 💻 Projects
 
+
+
+## live link : [TGP Blood bank](https://tgp-blood-bank.web.app/)
+- Client side link : [Github Link](https://github.com/salam46khan/tgp-blood-bank)
+- Server side link : [Github link](https://github.com/salam46khan/tgp-blood-bank-server)
+
+### Features
+
+- **User Authentication**: Secure sign-up and login system for users.
+- **User Roles**: Different roles for volunteers, administrators, and donors.
+- **Donation Requests**: Posting and managing donation requests.
+- **Donor Interaction**: Donors can express interest and communicate with volunteers/admins.
+- **Feedback System**: Users can share opinions and suggestions.
+
+
 ## live link : [Daily City Scope](https://daily-city-scope.web.app/)
 - [Client side Code](https://github.com/salam46khan/daily-city-scope)
 - [Server side Code](https://github.com/salam46khan/daily-city-scope-server)
@@ -37,6 +52,19 @@ I am a front-end developer on a mission to create visually stunning and user-fri
 
 
 
+## live link : [Alokito Kobita](https://alokito-kobita.web.app/)
+- Client side link : [Github Link](https://github.com/salam46khan/alokito-kobita)
+- Server side link : [Github link](https://github.com/salam46khan/alokito-kobita-server)
+
+### Features
+
+- **User Authentication**: Allow users to sign up, log in, and manage their accounts securely.
+- **Poet Profiles**: Poets can create profiles and share their poems.
+- **Poem Repository**: A collection of poems organized by category, author, and popularity.
+- **Favorite Poems**: Users can mark poems as favorites for easy access.
+- **Responsive Design**: Mobile-friendly interface for seamless browsing on any device.
+
+
 ## live link : [Roam Plus](https://roam-plus-70bf9.web.app/)
 - [Client side Code](https://github.com/salam46khan/roam-plus)
 - [Server side Code](https://github.com/salam46khan/roam-plus-server)
@@ -51,16 +79,3 @@ I am a front-end developer on a mission to create visually stunning and user-fri
 - User can delete and update his won service
 
 
-## Live Link: [Auto Majesty](https://auto-majesty.web.app/)
-- [Client side Code](https://github.com/salam46khan/auto-majesty)
-- [Server side Code](https://github.com/salam46khan/auto-majesty-server)
-
-#### Features
-
-- User Authentication.
-- Responsive design.
-- Easy to understand layout.
-- User can add product
-- User can update product
-- User can add to cart product
-- User can remove from his cart
